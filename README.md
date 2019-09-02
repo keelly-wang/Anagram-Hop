@@ -1,3 +1,3 @@
 # Anagram Hop
 
-Final project from the Grade 11 Computer Science course in high school. 
+Final game from Grade 11 Computer Science course. Must have the Python <strong> enchant </strong> module installed to play.
